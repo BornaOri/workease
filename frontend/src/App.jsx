@@ -531,12 +531,12 @@ const Contact = () => {
     {
       icon: <Mail size={24} color="white" />,
       title: "Email Us",
-      info: " business email"
+      info: " borna@workeaseai.net"
     },
     {
       icon: <Phone size={24} color="white" />,
       title: "Call Us",
-      info: "business telephone number"
+      info: " 07508471923"
     },
   ];
 
