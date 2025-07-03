@@ -477,10 +477,10 @@ const About = () => {
           <h2 style={styles.sectionTitle}>About WorkEase AI</h2>
           <div style={styles.aboutContent}>
             <p>
-              We are a forward-thinking technology consulting firm specializing in artificial intelligence solutions for modern businesses. Our mission is to bridge the gap between cutting-edge AI technology and practical business applications.
+              We are a forward-thinking technology consulting firm specializing in agentic AI & automation solutions for modern businesses. Our mission is to bridge the gap between cutting-edge AI technology and practical business applications.
             </p>
             <p>
-              With years of experience in AI development and business consulting, we understand the unique challenges that companies face when implementing new technologies. Our approach combines technical expertise with business acumen to deliver solutions that truly make a difference.
+              With  experience in AI development and technology operations consulting, we understand the unique challenges that companies face when implementing new technologies. Our approach combines technical expertise with business acumen to deliver solutions that truly make a difference.
             </p>
             
             <ul style={styles.featuresList}>
